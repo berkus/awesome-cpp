@@ -240,6 +240,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Graphics
 
+* [AGG](http://www.antigrain.com/index.html) - Anti-grain Geometry rendering library. [GPL, older versions BSD]
 * [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. [BSD]
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]
 * [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. [EPL]
@@ -247,7 +248,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Ogre 3D](http://www.ogre3d.org/) :star: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/) - An open source high performance 3D graphics toolkit. [OSGPL]
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. [BSD]
-* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [bSD] [webpage](https://sites.google.com/site/skiadocs/home)
+* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 
 ## Image Processing
